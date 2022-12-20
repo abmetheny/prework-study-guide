@@ -4,7 +4,8 @@
 
 Study Guide to capture and organize information from the full-stack coding bootcamp prework module. Sections include notes on HTML, CSS, Git, and JavaScript.
 
-## Installation
+## Screenshot
+<img src="Screenshot.png">
 
 N/A
 
